@@ -10,4 +10,3 @@ This Python script retrieves the 5-day weather forecast for a given location usi
 4. Ensure you have Python installed on your system.
 5. Run the script `GetWeatherForecast.py`.
 6. Follow the instructions prompted to enter the location and temperature unit.
-
